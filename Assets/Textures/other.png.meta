@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 0ac248b90fc3de44892ac1f0a8c7b471
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: my-character_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 284
+        width: 96
+        height: 97
+      alignment: 9
+      pivot: {x: .517765522, y: .183515415}
+    - name: leg_up
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 172
+        width: 30
+        height: 96
+      alignment: 9
+      pivot: {x: .5, y: .837547481}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 105
+        width: 30
+        height: 161
+      alignment: 9
+      pivot: {x: .5, y: .102756098}
+    - name: arm_up
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 185
+        width: 30
+        height: 85
+      alignment: 9
+      pivot: {x: .5, y: .800970972}
+    - name: leg_down
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 33
+        width: 30
+        height: 124
+      alignment: 9
+      pivot: {x: .5, y: .871465981}
+    - name: arm_down
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 88
+        width: 30
+        height: 85
+      alignment: 9
+      pivot: {x: .5, y: .827422738}
+    - name: my-character_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 93
+        width: 29
+        height: 208
+      alignment: 9
+      pivot: {x: .5, y: .0680000037}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,29 @@
+<root>
+	<ui name="startGame">Start Game</ui>
+	<ui name="quitGame">Quit Game</ui>
+	<ui name="gameTitle">Art Of Sword</ui>
+	<ui name="primaryGladiator">Primary Gladiator</ui>
+	<ui name="MediumGladiator">Medium Gladiator</ui>
+	<ui name="JuniorGladiator">Junior Gladiator</ui>
+	<ui name="returnMenu">return Menu</ui>
+	<ui name="retry">Retry</ui>
+	<ui name="backToMenu">Back to menu</ui>
+	<ui name="winTheGame"> win The Game</ui>
+	<ui name="gameHelp">Help</ui>
+	<ui name="changLanguage">English/中文</ui>
+	<ui name="authorInfo">
+by frank, engine:unity
+2015-10, all rights reserved
+email:2532776641@qq.com
+	</ui>
+	<ui name="basicOperation">
+Basic Operation:
+    X for defend, Z for attack, use left/right arrow to move.
+    you can change it in game start panel.
+    
+Tip:
+defendAttack:You can attack faster than normal during defence.
+FirstAttackPrivilege:the one attack earlier will be safe. 
+SeizeTheChance:Each person can be hit three times.
+	</ui>
+</root>

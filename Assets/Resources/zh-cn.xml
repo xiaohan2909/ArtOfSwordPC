@@ -1,0 +1,29 @@
+﻿<root>
+	<ui name="startGame">开始游戏</ui>
+	<ui name="quitGame">退出游戏</ui>
+	<ui name="gameTitle">剑斗的艺术</ui>
+	<ui name="primaryGladiator">初级剑士</ui>
+	<ui name="MediumGladiator">中级剑士</ui>
+	<ui name="JuniorGladiator">高级剑士</ui>
+	<ui name="returnMenu">返回菜单</ui>
+	<ui name="retry">重试</ui>
+	<ui name="backToMenu">返回菜单</ui>
+	<ui name="winTheGame">获胜了</ui>
+	<ui name="gameHelp">游戏帮助</ui>
+	<ui name="changLanguage">中文/English</ui>
+	<ui name="authorInfo">
+by frank, engine:unity
+2015-10, all rights reserved
+email:2532776641@qq.com
+	</ui>
+	<ui name="basicOperation">
+基本操作:
+    X 键盘防御, Z键攻击, 左右方向键控制移动.
+    可以在游戏开始设置的Input中更改控制.
+    
+游戏技巧:
+防守反击:在防守动作中按下攻击,可以获得比普通攻击更大的速度
+先手优势:对攻双方先攻击者更有可能中伤对方
+把握时机:每个剑士只能承受3次攻击,请在适当时候出击
+	</ui>
+</root>
